@@ -1,0 +1,9 @@
+\frametitle{Makron muokkaaminen}
+    \begin{itemize}
+        \item Makrot nauhoitetaan siis tavalliseen rekisteriin, samaan paikkaan mihin leikkaukset ja kopioinnitkin
+        \item Nyt valitussa rekisterissä on selväkielisenä tekstinä makro. Tämän voi liittää tekstin sekaan tavalliseen tapaan: \com{\textquotedbl {\color{red}a}p}
+        \item Makron voi kirjoittaa suoraankin ja sitten kopioida rekisteriin
+        \pause
+        \item Esimerkiksi pieni tekstiä käyvä makro voisi näyttää tällaiselta: \verb|v{gUuiFoo^[|
+        \item Osaava vim-silmä näkee, että siellä on käytetty ensin komentoa \com{gU} (make upper case) ja sitten on peruttu sen toiminta \com{u}:lla (undo), joten ne kaksi komentoa voi poistaa, jos haluaa hienosäätää
+    \end{itemize}

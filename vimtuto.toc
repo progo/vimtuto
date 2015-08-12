@@ -1,0 +1,22 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {finnish}
+\beamer@sectionintoc {1}{Editorit}{2}{1}{1}
+\beamer@sectionintoc {2}{Editorien evoluutio}{9}{1}{2}
+\beamer@sectionintoc {3}{Vim}{15}{1}{3}
+\beamer@sectionintoc {4}{Vi:n perusasiat}{25}{1}{4}
+\beamer@sectionintoc {5}{Tekstink\IeC {\"a}sittely}{28}{1}{5}
+\beamer@sectionintoc {6}{Pari kehittynytt\IeC {\"a} liikekomentoa}{52}{2}{6}
+\beamer@sectionintoc {7}{Tekstin ''maalaus'' -- visual-moodi}{63}{2}{7}
+\beamer@sectionintoc {8}{Rekisterit -- Vimin vastine leikep\IeC {\"o}yd\IeC {\"a}lle}{75}{2}{8}
+\beamer@sectionintoc {9}{Etsi\ldots }{84}{2}{9}
+\beamer@sectionintoc {10}{\ldots ja korvaa}{96}{2}{10}
+\beamer@sectionintoc {11}{Sanat\IeC {\"a}ydennykset}{104}{3}{11}
+\beamer@sectionintoc {12}{Asetuksia}{114}{3}{12}
+\beamer@sectionintoc {13}{Puskurit}{120}{3}{13}
+\beamer@sectionintoc {14}{Ikkunat}{129}{3}{14}
+\beamer@sectionintoc {15}{Digraafit}{138}{4}{15}
+\beamer@sectionintoc {16}{Lyhennelm\IeC {\"a}t}{140}{4}{16}
+\beamer@sectionintoc {17}{Makrot}{149}{4}{17}
+\beamer@sectionintoc {18}{Pikan\IeC {\"a}pp\IeC {\"a}imet}{154}{4}{18}
+\beamer@sectionintoc {19}{Muuta sekalaista}{171}{4}{19}
+\beamer@sectionintoc {20}{Mit\IeC {\"a} j\IeC {\"a}i k\IeC {\"a}sittelem\IeC {\"a}tt\IeC {\"a}?}{187}{4}{20}
